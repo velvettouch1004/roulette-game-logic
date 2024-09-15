@@ -1,0 +1,14 @@
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\obj\Debug\net8.0\roulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\obj\Debug\net8.0\roulette.AssemblyInfoInputs.cache
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\obj\Debug\net8.0\roulette.AssemblyInfo.cs
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\obj\Debug\net8.0\roulette.csproj.CoreCompileInputs.cache
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\bin\Debug\net8.0\roulette.exe
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\bin\Debug\net8.0\roulette.deps.json
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\bin\Debug\net8.0\roulette.runtimeconfig.json
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\bin\Debug\net8.0\roulette.dll
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\bin\Debug\net8.0\roulette.pdb
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\obj\Debug\net8.0\roulette.dll
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\obj\Debug\net8.0\refint\roulette.dll
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\obj\Debug\net8.0\roulette.pdb
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\obj\Debug\net8.0\roulette.genruntimeconfig.cache
+C:\School\C#\C# Novice\Level-3\Rien-Ne-Va-Plus-174d7fd8f0f6-22e787fd501f\obj\Debug\net8.0\ref\roulette.dll
